@@ -1,0 +1,30 @@
+{
+  "name": "coinmarketcap-scraper",
+  "version": "1.0.0",
+  "description": "Scraping web content from coinmarketcap.com",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "web",
+    "scraping",
+    "nodejs",
+    "es6",
+    "lodash",
+    "puppeteer",
+    "webdriver"
+  ],
+  "author": "Ranjeet Srinivas",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "ora": "^3.4.0",
+    "puppeteer": "^1.14.0"
+  },
+  "devDependencies": {
+    "dotenv": "^7.0.0",
+    "nodemon": "^1.18.10"
+  }
+}

@@ -1,2 +1,3 @@
 # coinmarketcap-scraper
-A scraping tool to extract latest data of cryptocurrencies.
+
+Web scraping for https://www.coinmarketcap.com
