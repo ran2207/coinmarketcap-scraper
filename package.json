@@ -19,7 +19,7 @@
   "author": "Ranjeet Srinivas",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "ora": "^3.4.0",
     "puppeteer": "^1.14.0"
   },
